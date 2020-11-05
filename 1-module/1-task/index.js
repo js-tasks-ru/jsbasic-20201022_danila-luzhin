@@ -12,8 +12,3 @@ function factorial(n) {
   }
   return startValue;
 }
-
-factorial(5);
-factorial(3);
-factorial(1);
-factorial(0);

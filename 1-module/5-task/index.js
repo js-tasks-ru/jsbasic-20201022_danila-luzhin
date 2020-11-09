@@ -11,5 +11,3 @@ function truncate(str, maxlength) {
     return str;
   }
 }
-
-console.log(truncate('Жили у бабуси две больших сосисы', 20));
